@@ -12,7 +12,7 @@
 ### Education
 * Master's Degrees , 1st year Faculty of Science Innovative Physics in [Mahidol University](https://mahidol.ac.th/th/), Bangkok, Thailand *(2022 - Present)* 
 
-* Bachelor's Degrees of Science Physics in Mahidol University, Bangkok, Thailand *(2017-2021)* | GPA 3.06
+* Bachelor's Degrees of Science Physics in Mahidol University, Bangkok, Thailand *(2017-2021)* GPA 3.06
 
 ### Skills
 * Coding with Python, c++, MATLAB, HTML, CSS, Unix command 
