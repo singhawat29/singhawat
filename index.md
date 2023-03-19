@@ -10,7 +10,8 @@
 * Download: [Curriculum Vitae](/Resume.pdf)
 
 ### Education
-* Master's Degrees  , 1st year Faculty of Science Innovative Physics in [Mahidol University](https://mahidol.ac.th/th/), Bangkok, Thailand *(2022 - Present)* 
+* Master's Degrees , 1st year Faculty of Science Innovative Physics in [Mahidol University](https://mahidol.ac.th/th/), Bangkok, Thailand *(2022 - Present)* 
+
 * Bachelor's Degrees of Science Physics in Mahidol University, Bangkok, Thailand *(2017-2021)* | GPA 3.06
 
 ### Skills
@@ -24,7 +25,7 @@
 
 ### Experience
 - **Intern** at [APPLIED OPTICS RESEARCH GROUP MAHIDOL UNIVERSITY](https://physics.sc.mahidol.ac.th/aorg/) *(June - July 2019)*
-  - Design metamaterials use COMSOL.
+  - Design metamaterials use COMSOL Multiphysics Program.
 
 - **Intern** in Opto-Electrochemical Sensing Research and Terahertz Techonology Research LAB at [National Electronics and Computer Technology Center : NECTEC](https://www.nectec.or.th/research/research-unit/ssdrg-trt.html) *(Jun-Jul 2021)*
   - Research Assistant.
